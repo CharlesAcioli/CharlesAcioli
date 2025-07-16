@@ -61,6 +61,9 @@ Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em a
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br/>
+<br/>
+
 ### Estatísticas
 <p>
   <img 
