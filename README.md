@@ -3,7 +3,9 @@
 **`Desenvolvedor FullStack | Técnico em Informática`**
 <br/>
 <br/>
-Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em agosto de 2025 formação em Técnico em Informática para internet (Desenvolvimento FullStack).
+<p>
+    Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em agosto de 2025 formação em Técnico em Informática para internet (Desenvolvimento FullStack).
+</p>
 
 ## 💻Linguagens e Tecnologias🛠️
 <img 
@@ -153,8 +155,9 @@ Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em a
 <br/>
 <br/>
 
-## 📊Estatísticas
-<p>
+## 📊 Estatísticas
+
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -162,23 +165,34 @@ Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em a
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=CharlesAcioli&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=15&custom_title=Charles%20Acioli%20-%20Git-Hub📊" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesAcioli&theme=github_dark&layout=compact&custom_title=Tecnologias%20Usadas🚀&langs_count=9&hide_border=true&border_radius=15" 
+  
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesAcioli&theme=github_dark&layout=compact&custom_title=Tecnologias%20Usadas🚀&langs_count=9&hide_border=true&border_radius=15" 
   />
+</div>
 
-</p>
-<br/>
-<br/>
+<!-- FORÇA A PRÓXIMA SEÇÃO A FICAR ABAIXO DAS IMAGENS -->
+<br clear="both" />
 
-# Redes Sociais
+
+<div style="clear: both;"></div>
+
+## 🌐 Redes Sociais
+
 <a href="https://www.instagram.com/charles_acioli" target="_blank" rel="noopener noreferrer">
-  <img
-    width="30px"
-    height="200"
-    align="left"
-    src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+  <img align="left" alt="Instagram" width="50px" style="margin-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 </a>
+
+<a href="https://www.linkedin.com/in/charlesacioli" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="LinkedIn" width="50px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="https://github.com/CharlesAcioli" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="GitHub" width="50px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</a>
+
+<br/>
+<br/>
