@@ -1,6 +1,8 @@
 # Charles Acioli
 
 **`Desenvolvedor FullStack`**
+<br/>
+<br/>
 Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em agosto de 2025 formação em Técnico em Informática para internet (Desenvolvimento FullStack).
 
 ### Linguagens e Tecnologias
@@ -60,7 +62,30 @@ Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em a
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
+/>
 <br/>
 <br/>
 
