@@ -1,11 +1,11 @@
 # Charles Acioli
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack | Técnico em Informática`**
 <br/>
 <br/>
 Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em agosto de 2025 formação em Técnico em Informática para internet (Desenvolvimento FullStack).
 
-### Linguagens e Tecnologias
+## 💻Linguagens e Tecnologias🛠️
 <img 
     align="left" 
     alt="HTML"
@@ -32,6 +32,24 @@ Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em a
 />
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<br/>
+<br/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -40,12 +58,14 @@ Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em a
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+<br/>
+<br/>
 <img 
     align="left" 
     alt="Git" 
@@ -56,54 +76,109 @@ Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em a
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<br/>
+<br/>
+<img 
+    align="left" 
+    alt="MariaDB" 
+    title="MariaDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JSON" 
+    title="JSON"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
 />
 <br/>
 <br/>
+<img 
+    align="left" 
+    alt="LinuxMint" 
+    title="LinuxMint"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Windows11" 
+    title="Windows11"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
+<br/>
+<br/>
 
-### Estatísticas
+## 📊Estatísticas
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=CharlesAcioli&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=15&custom_title=Charles%20Acioli%20-%20Git-Hub📊" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesAcioli&theme=github_dark&layout=compact&custom_title=Tecnologias%20Usadas🚀&langs_count=9&hide_border=true&border_radius=15" 
   />
 
 </p>
+<br/>
+<br/>
+
+# Redes Sociais
+<a href="https://www.instagram.com/charles_acioli" target="_blank" rel="noopener noreferrer">
+  <img
+    width="30px"
+    height="200"
+    align="left"
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+</a>
