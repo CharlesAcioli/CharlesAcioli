@@ -163,7 +163,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CharlesAcioli&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=15&custom_title=Charles%20Acioli%20-%20Git-Hub📊" 
+    src="https://github-readme-stats.vercel.app/api?username=CharlesAcioli&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=15&custom_title=Charles%20Acioli%20-%20Git-Hub" 
   />
   
   <img 
