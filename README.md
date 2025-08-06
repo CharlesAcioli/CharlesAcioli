@@ -66,6 +66,32 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Composer" 
+    title="Composer"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" 
+/>
+<br/>
+<br/>
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CodePen" 
+    title="CodePen"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" 
+/>
 <br/>
 <br/>
 <img 
@@ -151,6 +177,32 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
+<br/>
+<br/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Notion" 
+    title="Notion"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
 <br/>
 <br/>
