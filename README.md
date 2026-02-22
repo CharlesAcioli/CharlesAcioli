@@ -4,6 +4,7 @@
 
 <p>
 Olá! Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e Técnico em Informática para internet (Desenvolvimento FullStack).
+<br>
 Em busca de estágio.
 </p>
 
