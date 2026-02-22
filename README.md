@@ -1,250 +1,87 @@
 # Charles Acioli
 
 **`Desenvolvedor FullStack | Técnico em Informática`**
-<br/>
-<br/>
+
 <p>
-    Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em agosto de 2025 formação em Técnico em Informática para internet (Desenvolvimento FullStack).
+Olá! Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e finalizando em agosto de 2025 a formação em Técnico em Informática para internet (Desenvolvimento FullStack).
 </p>
 
-## 💻Linguagens e Tecnologias🛠️
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
-<br/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Composer" 
-    title="Composer"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" 
-/>
-<br/>
-<br/>
-<img 
-    align="left" 
-    alt="VSCode" 
-    title="VSCode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CodePen" 
-    title="CodePen"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" 
-/>
-<br/>
-<br/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<br/>
-<br/>
-<img 
-    align="left" 
-    alt="MariaDB" 
-    title="MariaDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQLite" 
-    title="SQLite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JSON" 
-    title="JSON"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
-/>
-<br/>
-<br/>
-<img 
-    align="left" 
-    alt="LinuxMint" 
-    title="LinuxMint"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Windows11" 
-    title="Windows11"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
-/>
-<br/>
-<br/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Canva" 
-    title="Canva"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Notion" 
-    title="Notion"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-/>
-<br/>
-<br/>
+---
+
+## 💻 Tecnologias e Ferramentas
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- Linguagens -->
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" title="HTML"/>
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" title="CSS"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" title="JavaScript"/>
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30px" title="PHP"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" title="Python"/>
+  <br><br>
+  
+  <!-- Frameworks / Libraries -->
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px" title="Bootstrap"/>
+  <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px" title="NodeJS"/>
+  <img alt="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="30px" title="Composer"/>
+  <br><br>
+  <!-- IDE / Editor -->
+  <img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px" title="VSCode"/>
+  <img alt="CodePen" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" width="30px" title="CodePen"/>
+  <br><br>
+  <!-- Versionamento -->
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" title="Git"/>
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" title="GitHub"/>
+  <br><br>
+  <!-- Banco de Dados -->
+  <img alt="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="30px" title="MariaDB"/>
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px" title="MySQL"/>
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px" title="PostgreSQL"/>
+  <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30px" title="SQLite"/>
+  <img alt="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="30px" title="JSON"/>
+  <br><br>
+  <!-- Sistemas -->
+  <img alt="LinuxMint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="30px" title="LinuxMint"/>
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px" title="Linux"/>
+  <img alt="Windows11" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="30px" title="Windows11"/>
+  <br><br>
+  <!-- Design / Produtividade -->
+  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30px" title="Figma"/>
+  <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="30px" title="Canva"/>
+  <img alt="Notion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="30px" title="Notion"/>
+</div>
+
+---
 
 ## 📊 Estatísticas
 
-<div>
-  <img 
-    align="left" 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+  <img
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CharlesAcioli&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=15&custom_title=Charles%20Acioli%20-%20Git-Hub" 
+    src="https://github-readme-stats.vercel.app/api?username=CharlesAcioli&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&border_radius=15&custom_title=Charles%20Acioli%20-%20GitHub" 
   />
   
   <img 
-    align="left" 
-    alt="Top Langs" 
+    alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesAcioli&theme=github_dark&layout=compact&custom_title=Tecnologias%20Usadas🚀&langs_count=9&hide_border=true&border_radius=15" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesAcioli&theme=radical&layout=compact&langs_count=9&hide_border=true&border_radius=15&custom_title=Tecnologias%20Usadas🚀" 
   />
 </div>
 
-<!-- FORÇA A PRÓXIMA SEÇÃO A FICAR ABAIXO DAS IMAGENS -->
-<br clear="both" />
-
-
-<div style="clear: both;"></div>
+---
 
 ## 🌐 Redes Sociais
 
-<a href="https://www.instagram.com/charles_acioli" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Instagram" width="50px" style="margin-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-</a>
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <a href="https://www.instagram.com/charles_acioli" target="_blank">
+    <img alt="Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/charlesacioli" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="LinkedIn" width="50px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+  <a href="https://www.linkedin.com/in/charlesacioli" target="_blank">
+    <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
 
-<a href="https://github.com/CharlesAcioli" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="GitHub" width="50px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</a>
-
-<br/>
-<br/>
+  <a href="https://github.com/CharlesAcioli" target="_blank">
+    <img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  </a>
+</div>
