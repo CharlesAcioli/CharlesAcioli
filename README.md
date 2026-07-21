@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack | Técnico em Informática`**
 
 <p align="left">
-  Olá! Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e Técnico em Informática para Internet (Desenvolvimento FullStack).<br>
+  Olá! Me chamo Charles Acioli, natural de Maceió-AL. Formado em TI e Técnico em Informática para Internet (Desenvolvimento FullStack) e atualmente cursando superior em análise e desenvolvimento de sistemas.<br>
   🎯 <strong>Em busca de estágio na área de desenvolvimento.</strong>
 </p>
 
