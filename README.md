@@ -68,14 +68,14 @@
     <img 
       alt="GitHub Streak" 
       height="180" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=charlesacioli&theme=radical&hide_border=true&border_radius=15" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesAcioli&theme=radical&hide_border=true&border_radius=15" 
     />
   </a>
   <a href="https://github.com/charlesacioli">
     <img 
       alt="GitHub Activity Graph" 
       height="180" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=charlesacioli&theme=radical&area=true&hide_border=true&border_radius=15" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=CharlesAcioli&theme=radical&area=true&hide_border=true&border_radius=15" 
     />
   </a>
 </div>
